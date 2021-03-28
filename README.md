@@ -1,13 +1,6 @@
 # Securex
-Your password security is in your own hands.
-
-Store your credentials securely on the Ethereum network using Infuria and Web3.
-None of the exisiting apps offer the feature to sync your passwords. They just allow encrypted offline storage which is redundant in case user loses his/her phone.
-
-## Tech Stack:
-- Android Studio
-- Java
-- Kotlin
-- Etheruem
-- Infuria
-- Web3j
+![alt text](https://github.com/Ishan-001/Hacko-41-Bareilly-ki-Barfi/blob/main/presentation/ss1.PNG)
+![alt text](https://github.com/Ishan-001/Hacko-41-Bareilly-ki-Barfi/blob/main/presentation/ss2.PNG)
+![alt text](https://github.com/Ishan-001/Hacko-41-Bareilly-ki-Barfi/blob/main/presentation/ss3.PNG)
+![alt text](https://github.com/Ishan-001/Hacko-41-Bareilly-ki-Barfi/blob/main/presentation/ss4.PNG)
+![alt text](https://github.com/Ishan-001/Hacko-41-Bareilly-ki-Barfi/blob/main/presentation/ss5.PNG)
